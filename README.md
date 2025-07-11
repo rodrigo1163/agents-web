@@ -4,6 +4,17 @@ Projeto desenvolvido durante o evento **NLW Agents** da [Rocketseat](https://roc
 
 > **📋 Projeto Frontend**: Esta é a interface web do NLW Agents. Para funcionar corretamente, é necessário configurar o backend disponível em: [agents-server](https://github.com/rodrigo1163/agents-server.git)
 
+## 🤖 Sobre o Projeto
+
+O **NLW Agents** é uma aplicação web moderna que permite a criação e gerenciamento de salas interativas com integração de inteligência artificial. O projeto demonstra como construir uma plataforma completa onde usuários podem:
+
+- **Criar salas temáticas** para discussões e interações
+- **Fazer perguntas em tempo real** dentro das salas
+- **Gravar e processar áudio** para interação por voz
+- **Interagir com agentes de IA** para respostas inteligentes e automatizadas
+
+A aplicação combina tecnologias modernas de frontend e backend para criar uma experiência fluida e responsiva, mostrando na prática como integrar IA em aplicações web reais.
+
 ## 🚀 Tecnologias
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
